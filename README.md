@@ -8,6 +8,6 @@ If you want to actively code along with me, use the R script called "code-blank.
 
 If you'd rather have the code in front of you while following along, use the R script called "code-complete.R", which contains all of the code, comments, and outline of today's seminar.
 
-You're encouraged to take notes as a team [](https://etherpad.net/p/osc-19october2017)!
+You're encouraged to take notes as a team [here](https://etherpad.net/p/osc-19october2017)!
 
-[Here is the link for Software Carpentry](https://software-carpentry.org/) 
+[Here](https://software-carpentry.org/) is the link for Software Carpentry 
