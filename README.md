@@ -11,3 +11,5 @@ If you'd rather have the code in front of you while following along, use the R s
 You're encouraged to take notes as a team [here](https://etherpad.net/p/osc-19october2017)!
 
 [Here](https://software-carpentry.org/) is the link for Software Carpentry 
+
+![alt text][https://github.com/DanielleQuinn/osc-october19/blob/master/infographic-sc.jpg]
