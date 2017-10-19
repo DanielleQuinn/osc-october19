@@ -12,4 +12,4 @@ You're encouraged to take notes as a team [here](https://etherpad.net/p/osc-19oc
 
 [Here](https://software-carpentry.org/) is the link for Software Carpentry 
 
-![][https://raw.githubusercontent.com/DanielleQuinn/osc-october19/master/infographic-sc.jpg?raw=true]
+![][infographic-sc.jpg?raw=true]
