@@ -1,0 +1,10 @@
+year	site	atlantic.salmon	brook.trout	chain.pickerel	golden.shiner	yellow.perch
+1999	A	1	3	0	3	6
+1999	B	6	8	0	7	5
+1999	C	13	2	0	2	7
+2000	A	6	9	0	8	6
+2000	B	12	10	0	7	4
+2000	C	9	13	0	9	8
+2001	A	13	6	5	2	6
+2001	B	6	2	2	1	5
+2001	C	9	6	8	0	6

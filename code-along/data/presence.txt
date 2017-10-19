@@ -1,0 +1,12 @@
+transect	year	species	abundance
+A	2000	balsam fir	105
+A	2000	black ash	93
+A	2000	jack pine	87
+A	2000	white birch	125
+A	2001	black ash	87
+A	2001	white birch	213
+B	2000	black ash	74
+B	2000	jack pine	123
+B	2001	balsam fir	65
+B	2001	jack pine	99
+B	2001	white birch	221

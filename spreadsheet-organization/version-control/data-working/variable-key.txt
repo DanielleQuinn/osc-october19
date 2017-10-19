@@ -1,0 +1,8 @@
+filename: gapminder.txt
+
+country - country name, character string
+continent - continent name, character string
+year - year, integer
+life_exp - life expectancy, numeric
+pop - population, integer
+gdp_per_cap - gross domestic product per capita, numeric
